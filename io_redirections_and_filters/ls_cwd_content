@@ -1,0 +1,16 @@
+total 56
+drwxrwxr-x 2 gabyriv gabyriv 4096 jun 12 10:58 .
+drwxrwxr-x 6 gabyriv gabyriv 4096 jun 12 09:03 ..
+-rwxrwxr-x 1 gabyriv gabyriv   33 jun 12 09:18 0-hello_world
+-rwxrwxr-x 1 gabyriv gabyriv   23 jun 12 09:35 1-confused_smiley
+-rwxrwxr-x 1 gabyriv gabyriv   28 jun 12 09:37 2-hellofile
+-rwxrwxr-x 1 gabyriv gabyriv   40 jun 12 09:49 3-twofiles
+-rwxrwxr-x 1 gabyriv gabyriv   36 jun 12 09:56 4-lastlines
+-rwxrwxr-x 1 gabyriv gabyriv   35 jun 12 10:01 5-firstlines
+-rwxrwxr-x 1 gabyriv gabyriv   41 jun 12 10:24 6-third_line
+-rwxrwxr-x 1 gabyriv gabyriv   82 jun 12 10:52 7-file
+-rwxrwxr-x 1 gabyriv gabyriv   36 jun 12 10:57 8-cwd_state
+-rw-rw-r-- 1 gabyriv gabyriv  728 jun 12 10:25 iacta
+-rw-rw-r-- 1 gabyriv gabyriv    0 jun 12 10:58 ls_cwd_content
+-rw-rw-r-- 1 gabyriv gabyriv  743 jun 12 10:39 README.md
+-rw-rw-r-- 1 gabyriv gabyriv   14 jun 12 09:35 smiley
